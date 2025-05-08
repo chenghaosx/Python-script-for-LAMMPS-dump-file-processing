@@ -3,6 +3,7 @@
 The dump file output format in lammps is:
 
 dump          1  pdos custom 10 dump.txt id type x y z vx vy vz 
+
 dump_modify   1  sort id
 
 <img width="347" alt="1746712437175" src="https://github.com/user-attachments/assets/388787bd-55cd-4af4-a89e-ffbc80e2011a" />
