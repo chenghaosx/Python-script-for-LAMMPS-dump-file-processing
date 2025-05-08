@@ -2,7 +2,6 @@
   This program is designed to quickly extract information output by the dump command and can flexibly extract specified columns in the dump file.
 The dump file output format in lammps is:
 
-# *********************  dumpfile *****************
 dump          1  pdos custom 10 dump.txt id type x y z vx vy vz 
 dump_modify   1  sort id
 
